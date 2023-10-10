@@ -1,0 +1,2 @@
+# getmachook
+android系统上hook获取mac的接口，用来检测APP是否有获取mac地址的敏感行为
